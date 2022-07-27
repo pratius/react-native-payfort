@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazon:fortpayment:2.1.0:release@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
