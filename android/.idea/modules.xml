@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RNpayfort.iml" filepath="$PROJECT_DIR$/.idea/modules/RNpayfort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RNpayfort.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RNpayfort.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RNpayfort.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RNpayfort.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RNpayfort.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RNpayfort.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RNpayfort.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RNpayfort.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/646914720/RNpayfort.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/646914720/RNpayfort.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/646914720/RNpayfort.react-native-community_masked-view.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/646914720/RNpayfort.react-native-community_masked-view.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/646914720/RNpayfort.react-native-community_masked-view.main.iml" filepath="$PROJECT_DIR$/.idea/modules/646914720/RNpayfort.react-native-community_masked-view.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/646914720/RNpayfort.react-native-community_masked-view.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/646914720/RNpayfort.react-native-community_masked-view.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-162856571/RNpayfort.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-162856571/RNpayfort.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-162856571/RNpayfort.react-native-reanimated.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-162856571/RNpayfort.react-native-reanimated.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-162856571/RNpayfort.react-native-reanimated.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-162856571/RNpayfort.react-native-reanimated.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-162856571/RNpayfort.react-native-reanimated.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-162856571/RNpayfort.react-native-reanimated.unitTest.iml" />
+    </modules>
+  </component>
+</project>

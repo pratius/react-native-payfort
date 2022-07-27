@@ -408,7 +408,7 @@ SPEC CHECKSUMS:
   boost-for-react-native: 39c7adb57c4e60d6c5479dd8623128eb5b3f0f2c
   DoubleConversion: cf9b38bf0b2d048436d9a82ad2abe1404f11e7de
   FBLazyVector: 7b423f9e248eae65987838148c36eec1dbfe0b53
-  FBReactNativeSpec: baab8368b905d8a7c72dff2c829d28dc5962a114
+  FBReactNativeSpec: 4ca7ae2dcdd11d7901c3cf9c7f14776b71b2ed25
   glog: 73c2498ac6884b13ede40eda8228cb1eee9d9d62
   JVFloatLabeledTextField: df48598472ee015701d509f43e59492a0d4ca208
   PayFortSDK: a33a8488859d7666b3709f347ebb990697e1d110
