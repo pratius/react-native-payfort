@@ -1,0 +1,730 @@
+-- Merging decision tree log ---
+permission#com.RNpayfort.permission.C2D_MESSAGE
+INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:7:5-110
+	android:name
+		INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml
+uses-permission#com.RNpayfort.permission.C2D_MESSAGE
+INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:1:1-53:12
+INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:1:1-53:12
+INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:1:1-53:12
+INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:1:1-53:12
+MERGED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:1:1-53:12
+MERGED from [hermes-debug.aar] /Users/p.dubey/.gradle/caches/transforms-3/d575339557da17efce2abec88fac4c21/transformed/jetified-hermes-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.flipper:flipper:0.75.1] /Users/p.dubey/.gradle/caches/transforms-3/3d87599db8afc61f8f29c4ea2b308b65/transformed/jetified-flipper-0.75.1/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.75.1] /Users/p.dubey/.gradle/caches/transforms-3/e9f889088d2e27b17d5571b46613f1a5/transformed/jetified-flipper-network-plugin-0.75.1/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.75.1] /Users/p.dubey/.gradle/caches/transforms-3/592c77927e6e067ec149f5da2d4776aa/transformed/jetified-flipper-fresco-plugin-0.75.1/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-community_masked-view] /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-reanimated] /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.64.1] /Users/p.dubey/.gradle/caches/transforms-3/cadcab9a151562dfe48af6d2b9b96faa/transformed/jetified-react-native-0.64.1/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/p.dubey/.gradle/caches/transforms-3/e5938b968575277cf46af7373ac96ebf/transformed/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/0b7e1876ddd80b936b7e0f060a7816e6/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] /Users/p.dubey/.gradle/caches/transforms-3/35070b5d55303972e899587bd59724fa/transformed/jetified-animated-gif-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:2:1-35:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/p.dubey/.gradle/caches/transforms-3/ab93a7681408ba10320310a79b12bf78/transformed/jetified-rxandroid-2.1.1/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.work:work-rxjava2:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/e0b72c74806a3e1e09a53b96a8fdfafe/transformed/work-rxjava2-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.victor:lib:1.0.1] /Users/p.dubey/.gradle/caches/transforms-3/f2cff2b4b121e7e1a2f5ccf0081f5e77/transformed/jetified-lib-1.0.1/AndroidManifest.xml:2:1-16:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/p.dubey/.gradle/caches/transforms-3/c5d2e30ca6b6a8000ae8bfcf926ca1de/transformed/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/dfefefd1f5342ff0495fbde8cfa60d8f/transformed/jetified-flipper-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/b8856534af750c534906ae28f9a39127/transformed/jetified-stetho-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/62266a310618be4491103f9417548e41/transformed/jetified-fresco-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-base:2.0.0] /Users/p.dubey/.gradle/caches/transforms-3/b9481f7f934463c993ff823c6a844f6d/transformed/jetified-animated-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] /Users/p.dubey/.gradle/caches/transforms-3/300a06a02acea5e531e5bcf4f70e983a/transformed/jetified-animated-drawable-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/6a073cdc7b7e57f8ce97fca5e0f4a76e/transformed/jetified-drawee-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/e67b48a4b57bb5e7b26ff67226ba3b88/transformed/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/a7215ab911f5782a453a55283c96657d/transformed/jetified-memory-type-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/858bd495e889b3216a3931db74a6c5d7/transformed/jetified-memory-type-java-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/1c01cbd0e4685d2b93f0264e2aaf582f/transformed/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/cb9d39a20c356f2560b7b2b3d5619dab/transformed/jetified-soloader-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/p.dubey/.gradle/caches/transforms-3/0f59510c1c7f9a95d458f80adce67bd3/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/p.dubey/.gradle/caches/transforms-3/d2b37bb17590ad62552c49c4c6f1b232/transformed/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/p.dubey/.gradle/caches/transforms-3/29abf975047bdc7afa0055be8e066834/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/p.dubey/.gradle/caches/transforms-3/36c070bb95d2e15a5f9275827989d7c4/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime-ktx:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/37b0fa26291993c03ee8dd4f11c4cbcc/transformed/work-runtime-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:17:1-143:12
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/p.dubey/.gradle/caches/transforms-3/860f154f3ec27d2dc1a5fa7b1081dc58/transformed/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/73e8bf76a84e4da78e38a13dfb1031a6/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/3bdc50a7f08e2abfef5c1699b218799f/transformed/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/1a90b7898c8e160c9b9675362a803e55/transformed/jetified-imagepipeline-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/b1e12f2ccfacfd25f0b330f233ebeb3e/transformed/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/593ffcfc524e3521375c86e70a7f7b49/transformed/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/p.dubey/.gradle/caches/transforms-3/ff52a84cca6516eb5f255644b1c1aca9/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/p.dubey/.gradle/caches/transforms-3/5fb0d7cff8d366c5e085273c7e9ebe7a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/fe32ad03c5749225f96c8ba4bb53c908/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/p.dubey/.gradle/caches/transforms-3/072bed756a82751ab3ca3e109fbd682c/transformed/jetified-viewbinding-4.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /Users/p.dubey/.gradle/caches/transforms-3/fc4b485f77a018aa2d2071c1b1e07138/transformed/jetified-fragment-ktx-1.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/p.dubey/.gradle/caches/transforms-3/6c9305b5151620932b6e196c1bb8271a/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/p.dubey/.gradle/caches/transforms-3/1f695b7c2cbd9bcab2e0bb722df779d8/transformed/jetified-core-ktx-1.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/0dde9a8fe503e73ed2c8682a25ecaeec/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/06a70318bd0e777ac5d3ffce652bba50/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/b9eac61ea93210f3e0e5e44584a02431/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/6e99b83bfb57b279ca4161c30ac7b0f4/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/11a0f85ef89ba0663fac99422436e48e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/7f46f82bbf1cd96c038192ddc9270da8/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/p.dubey/.gradle/caches/transforms-3/0f24a7f09413532370533d6f32eab974/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/d9e13fafa18c60d5d3308abd31d87cea/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/p.dubey/.gradle/caches/transforms-3/3ee68374fda315f30fb2bae534a47ec5/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/p.dubey/.gradle/caches/transforms-3/272f0ffde1b36f5a7ab2ba7895f6c375/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/1cb7f46793a13a8ed8047672c3a953bb/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/7c9b7d5764e33635fc8470e88bdba6de/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.fragment:fragment:1.2.5] /Users/p.dubey/.gradle/caches/transforms-3/8b333f076ac593a6ec2de2ddb50d7c68/transformed/fragment-1.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/p.dubey/.gradle/caches/transforms-3/393fbf2387903aeea09571b8db107556/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/4cfa0516c3a2b3aab94ffa4de9b73c9c/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/e8f79920055536c51245704d301da8fc/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/ebe460fde366d28fcc507215a1d9df8e/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/p.dubey/.gradle/caches/transforms-3/5e76c6ff4ad2e26b12c4c90581bbae92/transformed/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] /Users/p.dubey/.gradle/caches/transforms-3/1927490c1f98570e5080a7065b4d48e6/transformed/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/00a80b53def37d52c599ea11fc8ea11d/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/9a483cdf6f5b0121f84f8822a96cf47a/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/cf448dbf6030c3f8d5da86042ca864cf/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/9849b8ff2f0224345f8740d3afabaa53/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/5dd7ed2dde9acbe6883befb2e7ebdad5/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/430e98e7e44e6f48be23ebb8701c73a5/transformed/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/c30db50dcec3192ceadc37fb0278b931/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/94eb8f5dd401ad1e14cba812b2203f99/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/c6dcd0b071ecaa83b1c1d4b9f669b2c3/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/c2cfce6dde7f6c41dadb472975d0e22e/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/ee81f6f9afc22947d23e1debc506f1ab/transformed/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/4b9fb902e9873fe241d4e0420be6a4a4/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/p.dubey/.gradle/caches/transforms-3/30e0447aac33904a92d40c976ca80d3a/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/d5dbbdc877310617644eba5ad516a0b6/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/edf49abd368b6fc6bacf5c4ba2d7d8b8/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/d24cf2a1cba4f12fdaefc47535b4105d/transformed/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /Users/p.dubey/.gradle/caches/transforms-3/cc30af78f05b66154f7aa01051abb13e/transformed/jetified-sdp-android-1.0.6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] /Users/p.dubey/.gradle/caches/transforms-3/10c9fb46bb0d7031d8b23fea69aa967e/transformed/jetified-ssp-android-1.0.6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/ecec301f7c9daabf8e9c9970e94d4308/transformed/jetified-ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/9dbc88162370293b478840ec88f1c092/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:1:1-53:12
+		INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:1:1-53:12
+		INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.facebook.flipper:flipper:0.75.1] /Users/p.dubey/.gradle/caches/transforms-3/3d87599db8afc61f8f29c4ea2b308b65/transformed/jetified-flipper-0.75.1/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.75.1] /Users/p.dubey/.gradle/caches/transforms-3/3d87599db8afc61f8f29c4ea2b308b65/transformed/jetified-flipper-0.75.1/AndroidManifest.xml:15:5-67
+MERGED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:12:5-67
+MERGED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:6:5-68
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:9:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:10:5-80
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:27:5-81
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:12:5-78
+MERGED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:12:5-78
+MERGED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:12:22-75
+uses-permission#android.permission.READ_PRIVILEGED_PHONE_STATE
+ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:13:5-14:47
+	tools:ignore
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:13:22-83
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:19:5-79
+MERGED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:11:5-79
+MERGED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:11:5-79
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:23:5-72
+	android:name
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:23:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:25:5-75
+	android:name
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:25:22-72
+application
+ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:27:5-51:19
+MERGED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:27:5-51:19
+MERGED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:27:5-51:19
+MERGED from [com.facebook.react:react-native:0.64.1] /Users/p.dubey/.gradle/caches/transforms-3/cadcab9a151562dfe48af6d2b9b96faa/transformed/jetified-react-native-0.64.1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.64.1] /Users/p.dubey/.gradle/caches/transforms-3/cadcab9a151562dfe48af6d2b9b96faa/transformed/jetified-react-native-0.64.1/AndroidManifest.xml:11:5-20
+MERGED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:14:5-33:19
+MERGED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:14:5-33:19
+MERGED from [com.victor:lib:1.0.1] /Users/p.dubey/.gradle/caches/transforms-3/f2cff2b4b121e7e1a2f5ccf0081f5e77/transformed/jetified-lib-1.0.1/AndroidManifest.xml:11:5-14:19
+MERGED from [com.victor:lib:1.0.1] /Users/p.dubey/.gradle/caches/transforms-3/f2cff2b4b121e7e1a2f5ccf0081f5e77/transformed/jetified-lib-1.0.1/AndroidManifest.xml:11:5-14:19
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/p.dubey/.gradle/caches/transforms-3/0f59510c1c7f9a95d458f80adce67bd3/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/p.dubey/.gradle/caches/transforms-3/0f59510c1c7f9a95d458f80adce67bd3/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/p.dubey/.gradle/caches/transforms-3/d2b37bb17590ad62552c49c4c6f1b232/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/p.dubey/.gradle/caches/transforms-3/d2b37bb17590ad62552c49c4c6f1b232/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/p.dubey/.gradle/caches/transforms-3/29abf975047bdc7afa0055be8e066834/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/p.dubey/.gradle/caches/transforms-3/29abf975047bdc7afa0055be8e066834/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:30:5-141:19
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:30:5-141:19
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/p.dubey/.gradle/caches/transforms-3/860f154f3ec27d2dc1a5fa7b1081dc58/transformed/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/p.dubey/.gradle/caches/transforms-3/860f154f3ec27d2dc1a5fa7b1081dc58/transformed/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/7c9b7d5764e33635fc8470e88bdba6de/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/7c9b7d5764e33635fc8470e88bdba6de/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.3.1] /Users/p.dubey/.gradle/caches/transforms-3/1927490c1f98570e5080a7065b4d48e6/transformed/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/p.dubey/.gradle/caches/transforms-3/1927490c1f98570e5080a7065b4d48e6/transformed/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/00a80b53def37d52c599ea11fc8ea11d/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/00a80b53def37d52c599ea11fc8ea11d/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/p.dubey/.gradle/caches/transforms-3/30e0447aac33904a92d40c976ca80d3a/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/p.dubey/.gradle/caches/transforms-3/30e0447aac33904a92d40c976ca80d3a/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/p.dubey/.gradle/caches/transforms-3/1927490c1f98570e5080a7065b4d48e6/transformed/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:29:8-40
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:29:8-40
+	tools:ignore
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:31:7-46
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:31:7-46
+	tools:targetApi
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:30:7-41
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:30:7-41
+	android:allowBackup
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:32:7-33
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:32:7-33
+		REJECTED from [com.victor:lib:1.0.1] /Users/p.dubey/.gradle/caches/transforms-3/f2cff2b4b121e7e1a2f5ccf0081f5e77/transformed/jetified-lib-1.0.1/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:33:7-38
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:33:7-38
+	android:networkSecurityConfig
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:34:7-67
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:34:7-67
+	tools:replace
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:36:9-44
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:36:9-44
+	android:usesCleartextTraffic
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:35:7-42
+	android:name
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:28:7-38
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:28:7-38
+activity#com.RNpayfort.MainActivity
+ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:38:7-49:18
+	android:screenOrientation
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:41:9-45
+	android:label
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:40:9-41
+	android:launchMode
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:43:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:44:9-51
+	android:configChanges
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:42:9-86
+	android:name
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:39:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:45:9-48:25
+action#android.intent.action.MAIN
+ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:46:13-64
+	android:name
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:46:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:47:13-73
+	android:name
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml:47:23-70
+uses-sdk
+INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml
+MERGED from [hermes-debug.aar] /Users/p.dubey/.gradle/caches/transforms-3/d575339557da17efce2abec88fac4c21/transformed/jetified-hermes-debug/AndroidManifest.xml:5:5-44
+MERGED from [hermes-debug.aar] /Users/p.dubey/.gradle/caches/transforms-3/d575339557da17efce2abec88fac4c21/transformed/jetified-hermes-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.flipper:flipper:0.75.1] /Users/p.dubey/.gradle/caches/transforms-3/3d87599db8afc61f8f29c4ea2b308b65/transformed/jetified-flipper-0.75.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.75.1] /Users/p.dubey/.gradle/caches/transforms-3/3d87599db8afc61f8f29c4ea2b308b65/transformed/jetified-flipper-0.75.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.75.1] /Users/p.dubey/.gradle/caches/transforms-3/e9f889088d2e27b17d5571b46613f1a5/transformed/jetified-flipper-network-plugin-0.75.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.75.1] /Users/p.dubey/.gradle/caches/transforms-3/e9f889088d2e27b17d5571b46613f1a5/transformed/jetified-flipper-network-plugin-0.75.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.75.1] /Users/p.dubey/.gradle/caches/transforms-3/592c77927e6e067ec149f5da2d4776aa/transformed/jetified-flipper-fresco-plugin-0.75.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.75.1] /Users/p.dubey/.gradle/caches/transforms-3/592c77927e6e067ec149f5da2d4776aa/transformed/jetified-flipper-fresco-plugin-0.75.1/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-community_masked-view] /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.1] /Users/p.dubey/.gradle/caches/transforms-3/cadcab9a151562dfe48af6d2b9b96faa/transformed/jetified-react-native-0.64.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.1] /Users/p.dubey/.gradle/caches/transforms-3/cadcab9a151562dfe48af6d2b9b96faa/transformed/jetified-react-native-0.64.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/p.dubey/.gradle/caches/transforms-3/e5938b968575277cf46af7373ac96ebf/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/p.dubey/.gradle/caches/transforms-3/e5938b968575277cf46af7373ac96ebf/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/0b7e1876ddd80b936b7e0f060a7816e6/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/0b7e1876ddd80b936b7e0f060a7816e6/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] /Users/p.dubey/.gradle/caches/transforms-3/35070b5d55303972e899587bd59724fa/transformed/jetified-animated-gif-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] /Users/p.dubey/.gradle/caches/transforms-3/35070b5d55303972e899587bd59724fa/transformed/jetified-animated-gif-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/p.dubey/.gradle/caches/transforms-3/ab93a7681408ba10320310a79b12bf78/transformed/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/p.dubey/.gradle/caches/transforms-3/ab93a7681408ba10320310a79b12bf78/transformed/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [androidx.work:work-rxjava2:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/e0b72c74806a3e1e09a53b96a8fdfafe/transformed/work-rxjava2-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-rxjava2:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/e0b72c74806a3e1e09a53b96a8fdfafe/transformed/work-rxjava2-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.victor:lib:1.0.1] /Users/p.dubey/.gradle/caches/transforms-3/f2cff2b4b121e7e1a2f5ccf0081f5e77/transformed/jetified-lib-1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.victor:lib:1.0.1] /Users/p.dubey/.gradle/caches/transforms-3/f2cff2b4b121e7e1a2f5ccf0081f5e77/transformed/jetified-lib-1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/p.dubey/.gradle/caches/transforms-3/c5d2e30ca6b6a8000ae8bfcf926ca1de/transformed/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/p.dubey/.gradle/caches/transforms-3/c5d2e30ca6b6a8000ae8bfcf926ca1de/transformed/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/dfefefd1f5342ff0495fbde8cfa60d8f/transformed/jetified-flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/dfefefd1f5342ff0495fbde8cfa60d8f/transformed/jetified-flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/b8856534af750c534906ae28f9a39127/transformed/jetified-stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/b8856534af750c534906ae28f9a39127/transformed/jetified-stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/62266a310618be4491103f9417548e41/transformed/jetified-fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/62266a310618be4491103f9417548e41/transformed/jetified-fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:2.0.0] /Users/p.dubey/.gradle/caches/transforms-3/b9481f7f934463c993ff823c6a844f6d/transformed/jetified-animated-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:2.0.0] /Users/p.dubey/.gradle/caches/transforms-3/b9481f7f934463c993ff823c6a844f6d/transformed/jetified-animated-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] /Users/p.dubey/.gradle/caches/transforms-3/300a06a02acea5e531e5bcf4f70e983a/transformed/jetified-animated-drawable-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] /Users/p.dubey/.gradle/caches/transforms-3/300a06a02acea5e531e5bcf4f70e983a/transformed/jetified-animated-drawable-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/6a073cdc7b7e57f8ce97fca5e0f4a76e/transformed/jetified-drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/6a073cdc7b7e57f8ce97fca5e0f4a76e/transformed/jetified-drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/e67b48a4b57bb5e7b26ff67226ba3b88/transformed/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/e67b48a4b57bb5e7b26ff67226ba3b88/transformed/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/a7215ab911f5782a453a55283c96657d/transformed/jetified-memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/a7215ab911f5782a453a55283c96657d/transformed/jetified-memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/858bd495e889b3216a3931db74a6c5d7/transformed/jetified-memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/858bd495e889b3216a3931db74a6c5d7/transformed/jetified-memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/1c01cbd0e4685d2b93f0264e2aaf582f/transformed/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/1c01cbd0e4685d2b93f0264e2aaf582f/transformed/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/cb9d39a20c356f2560b7b2b3d5619dab/transformed/jetified-soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/cb9d39a20c356f2560b7b2b3d5619dab/transformed/jetified-soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/p.dubey/.gradle/caches/transforms-3/0f59510c1c7f9a95d458f80adce67bd3/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/p.dubey/.gradle/caches/transforms-3/0f59510c1c7f9a95d458f80adce67bd3/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.3.0] /Users/p.dubey/.gradle/caches/transforms-3/d2b37bb17590ad62552c49c4c6f1b232/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/p.dubey/.gradle/caches/transforms-3/d2b37bb17590ad62552c49c4c6f1b232/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/p.dubey/.gradle/caches/transforms-3/29abf975047bdc7afa0055be8e066834/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/p.dubey/.gradle/caches/transforms-3/29abf975047bdc7afa0055be8e066834/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/p.dubey/.gradle/caches/transforms-3/36c070bb95d2e15a5f9275827989d7c4/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/p.dubey/.gradle/caches/transforms-3/36c070bb95d2e15a5f9275827989d7c4/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime-ktx:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/37b0fa26291993c03ee8dd4f11c4cbcc/transformed/work-runtime-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime-ktx:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/37b0fa26291993c03ee8dd4f11c4cbcc/transformed/work-runtime-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/p.dubey/.gradle/caches/transforms-3/860f154f3ec27d2dc1a5fa7b1081dc58/transformed/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/p.dubey/.gradle/caches/transforms-3/860f154f3ec27d2dc1a5fa7b1081dc58/transformed/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/73e8bf76a84e4da78e38a13dfb1031a6/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/73e8bf76a84e4da78e38a13dfb1031a6/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/3bdc50a7f08e2abfef5c1699b218799f/transformed/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/3bdc50a7f08e2abfef5c1699b218799f/transformed/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/1a90b7898c8e160c9b9675362a803e55/transformed/jetified-imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/1a90b7898c8e160c9b9675362a803e55/transformed/jetified-imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/b1e12f2ccfacfd25f0b330f233ebeb3e/transformed/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/b1e12f2ccfacfd25f0b330f233ebeb3e/transformed/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/593ffcfc524e3521375c86e70a7f7b49/transformed/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/593ffcfc524e3521375c86e70a7f7b49/transformed/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/p.dubey/.gradle/caches/transforms-3/ff52a84cca6516eb5f255644b1c1aca9/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/p.dubey/.gradle/caches/transforms-3/ff52a84cca6516eb5f255644b1c1aca9/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/p.dubey/.gradle/caches/transforms-3/5fb0d7cff8d366c5e085273c7e9ebe7a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/p.dubey/.gradle/caches/transforms-3/5fb0d7cff8d366c5e085273c7e9ebe7a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/fe32ad03c5749225f96c8ba4bb53c908/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/fe32ad03c5749225f96c8ba4bb53c908/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/p.dubey/.gradle/caches/transforms-3/072bed756a82751ab3ca3e109fbd682c/transformed/jetified-viewbinding-4.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/p.dubey/.gradle/caches/transforms-3/072bed756a82751ab3ca3e109fbd682c/transformed/jetified-viewbinding-4.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /Users/p.dubey/.gradle/caches/transforms-3/fc4b485f77a018aa2d2071c1b1e07138/transformed/jetified-fragment-ktx-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /Users/p.dubey/.gradle/caches/transforms-3/fc4b485f77a018aa2d2071c1b1e07138/transformed/jetified-fragment-ktx-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/p.dubey/.gradle/caches/transforms-3/6c9305b5151620932b6e196c1bb8271a/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/p.dubey/.gradle/caches/transforms-3/6c9305b5151620932b6e196c1bb8271a/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/p.dubey/.gradle/caches/transforms-3/1f695b7c2cbd9bcab2e0bb722df779d8/transformed/jetified-core-ktx-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/p.dubey/.gradle/caches/transforms-3/1f695b7c2cbd9bcab2e0bb722df779d8/transformed/jetified-core-ktx-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/0dde9a8fe503e73ed2c8682a25ecaeec/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/0dde9a8fe503e73ed2c8682a25ecaeec/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/06a70318bd0e777ac5d3ffce652bba50/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/06a70318bd0e777ac5d3ffce652bba50/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/b9eac61ea93210f3e0e5e44584a02431/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/b9eac61ea93210f3e0e5e44584a02431/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/6e99b83bfb57b279ca4161c30ac7b0f4/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/6e99b83bfb57b279ca4161c30ac7b0f4/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/11a0f85ef89ba0663fac99422436e48e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/11a0f85ef89ba0663fac99422436e48e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/7f46f82bbf1cd96c038192ddc9270da8/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/7f46f82bbf1cd96c038192ddc9270da8/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/p.dubey/.gradle/caches/transforms-3/0f24a7f09413532370533d6f32eab974/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/p.dubey/.gradle/caches/transforms-3/0f24a7f09413532370533d6f32eab974/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/d9e13fafa18c60d5d3308abd31d87cea/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/d9e13fafa18c60d5d3308abd31d87cea/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/p.dubey/.gradle/caches/transforms-3/3ee68374fda315f30fb2bae534a47ec5/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/p.dubey/.gradle/caches/transforms-3/3ee68374fda315f30fb2bae534a47ec5/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/p.dubey/.gradle/caches/transforms-3/272f0ffde1b36f5a7ab2ba7895f6c375/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/p.dubey/.gradle/caches/transforms-3/272f0ffde1b36f5a7ab2ba7895f6c375/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/1cb7f46793a13a8ed8047672c3a953bb/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/1cb7f46793a13a8ed8047672c3a953bb/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/7c9b7d5764e33635fc8470e88bdba6de/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/7c9b7d5764e33635fc8470e88bdba6de/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] /Users/p.dubey/.gradle/caches/transforms-3/8b333f076ac593a6ec2de2ddb50d7c68/transformed/fragment-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] /Users/p.dubey/.gradle/caches/transforms-3/8b333f076ac593a6ec2de2ddb50d7c68/transformed/fragment-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/p.dubey/.gradle/caches/transforms-3/393fbf2387903aeea09571b8db107556/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/p.dubey/.gradle/caches/transforms-3/393fbf2387903aeea09571b8db107556/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/4cfa0516c3a2b3aab94ffa4de9b73c9c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/4cfa0516c3a2b3aab94ffa4de9b73c9c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/e8f79920055536c51245704d301da8fc/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/e8f79920055536c51245704d301da8fc/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/ebe460fde366d28fcc507215a1d9df8e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/ebe460fde366d28fcc507215a1d9df8e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/p.dubey/.gradle/caches/transforms-3/5e76c6ff4ad2e26b12c4c90581bbae92/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/p.dubey/.gradle/caches/transforms-3/5e76c6ff4ad2e26b12c4c90581bbae92/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/p.dubey/.gradle/caches/transforms-3/1927490c1f98570e5080a7065b4d48e6/transformed/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/p.dubey/.gradle/caches/transforms-3/1927490c1f98570e5080a7065b4d48e6/transformed/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/00a80b53def37d52c599ea11fc8ea11d/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/00a80b53def37d52c599ea11fc8ea11d/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/9a483cdf6f5b0121f84f8822a96cf47a/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/9a483cdf6f5b0121f84f8822a96cf47a/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/cf448dbf6030c3f8d5da86042ca864cf/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/cf448dbf6030c3f8d5da86042ca864cf/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/9849b8ff2f0224345f8740d3afabaa53/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/9849b8ff2f0224345f8740d3afabaa53/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/5dd7ed2dde9acbe6883befb2e7ebdad5/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/5dd7ed2dde9acbe6883befb2e7ebdad5/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/430e98e7e44e6f48be23ebb8701c73a5/transformed/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/430e98e7e44e6f48be23ebb8701c73a5/transformed/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/c30db50dcec3192ceadc37fb0278b931/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/c30db50dcec3192ceadc37fb0278b931/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/94eb8f5dd401ad1e14cba812b2203f99/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/94eb8f5dd401ad1e14cba812b2203f99/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/c6dcd0b071ecaa83b1c1d4b9f669b2c3/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/c6dcd0b071ecaa83b1c1d4b9f669b2c3/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/c2cfce6dde7f6c41dadb472975d0e22e/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/c2cfce6dde7f6c41dadb472975d0e22e/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/ee81f6f9afc22947d23e1debc506f1ab/transformed/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/ee81f6f9afc22947d23e1debc506f1ab/transformed/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/4b9fb902e9873fe241d4e0420be6a4a4/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/4b9fb902e9873fe241d4e0420be6a4a4/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/p.dubey/.gradle/caches/transforms-3/30e0447aac33904a92d40c976ca80d3a/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/p.dubey/.gradle/caches/transforms-3/30e0447aac33904a92d40c976ca80d3a/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/d5dbbdc877310617644eba5ad516a0b6/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/d5dbbdc877310617644eba5ad516a0b6/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/edf49abd368b6fc6bacf5c4ba2d7d8b8/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/edf49abd368b6fc6bacf5c4ba2d7d8b8/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/d24cf2a1cba4f12fdaefc47535b4105d/transformed/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/d24cf2a1cba4f12fdaefc47535b4105d/transformed/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /Users/p.dubey/.gradle/caches/transforms-3/cc30af78f05b66154f7aa01051abb13e/transformed/jetified-sdp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /Users/p.dubey/.gradle/caches/transforms-3/cc30af78f05b66154f7aa01051abb13e/transformed/jetified-sdp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] /Users/p.dubey/.gradle/caches/transforms-3/10c9fb46bb0d7031d8b23fea69aa967e/transformed/jetified-ssp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] /Users/p.dubey/.gradle/caches/transforms-3/10c9fb46bb0d7031d8b23fea69aa967e/transformed/jetified-ssp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/ecec301f7c9daabf8e9c9970e94d4308/transformed/jetified-ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/ecec301f7c9daabf8e9c9970e94d4308/transformed/jetified-ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/9dbc88162370293b478840ec88f1c092/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/p.dubey/.gradle/caches/transforms-3/9dbc88162370293b478840ec88f1c092/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/debug/AndroidManifest.xml
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/debug/AndroidManifest.xml:11:9-86
+	android:name
+		ADDED from /Users/p.dubey/Documents/Archive/POC/React_Native_Payfort/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.75.1] /Users/p.dubey/.gradle/caches/transforms-3/3d87599db8afc61f8f29c4ea2b308b65/transformed/jetified-flipper-0.75.1/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.75.1] /Users/p.dubey/.gradle/caches/transforms-3/3d87599db8afc61f8f29c4ea2b308b65/transformed/jetified-flipper-0.75.1/AndroidManifest.xml:16:22-73
+activity#com.payfort.fortpaymentsdk.presentation.response.CreditCardResponseActivity
+ADDED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:15:9-19:51
+	android:screenOrientation
+		ADDED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:18:13-49
+	android:configChanges
+		ADDED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:17:13-66
+	android:theme
+		ADDED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:19:13-48
+	android:name
+		ADDED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:16:13-103
+activity#com.payfort.fortpaymentsdk.presentation.credit.CreditCardPaymentActivity
+ADDED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:20:9-24:51
+	android:screenOrientation
+		ADDED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:23:13-49
+	android:configChanges
+		ADDED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:22:13-66
+	android:theme
+		ADDED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:24:13-48
+	android:name
+		ADDED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:21:13-100
+activity#com.payfort.fortpaymentsdk.presentation.init.InitSecureConnectionActivity
+ADDED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:25:9-28:56
+	android:configChanges
+		ADDED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:27:13-66
+	android:theme
+		ADDED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:28:13-53
+	android:name
+		ADDED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:26:13-101
+activity#com.payfort.fortpaymentsdk.presentation.threeds.ThreeDsActivity
+ADDED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:29:9-32:63
+	android:configChanges
+		ADDED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:31:13-66
+	android:theme
+		ADDED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:32:13-60
+	android:name
+		ADDED from [com.amazon:fortpayment:2.1.0] /Users/p.dubey/.gradle/caches/transforms-3/adf0f23aa823f8f6f28bf7b3df91d02f/transformed/jetified-fortpayment-2.1.0-release/AndroidManifest.xml:30:13-91
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:28:22-74
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:31:9-37:35
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:33:13-68
+	android:multiprocess
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:36:13-40
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:32:13-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:39:9-44:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:42:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:43:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:44:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:40:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:45:9-51:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:48:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:49:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:50:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:51:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:47:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:46:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:52:9-57:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:55:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:56:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:57:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:54:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:53:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:59:9-64:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:62:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:63:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:64:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:61:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:60:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:65:9-75:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:68:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:69:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:70:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:67:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:66:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:71:13-74:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:72:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:72:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:73:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:73:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:76:9-86:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:79:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:80:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:81:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:78:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:77:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:82:13-85:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:83:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:83:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:84:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:84:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:87:9-97:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:90:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:91:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:92:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:89:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:88:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:93:13-96:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:94:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:94:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:95:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:95:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:98:9-107:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:101:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:102:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:103:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:100:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:99:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:104:13-106:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:105:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:105:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:108:9-119:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:111:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:112:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:113:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:110:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:109:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:114:13-118:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:115:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:115:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:116:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:116:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:117:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:117:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:120:9-129:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:123:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:124:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:125:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:122:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:121:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:126:13-128:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:127:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:127:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:130:9-140:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:133:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:134:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:135:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:136:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:132:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:131:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:137:13-139:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:138:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/p.dubey/.gradle/caches/transforms-3/776cac71f26114a6500125d238aebf26/transformed/work-runtime-2.5.0/AndroidManifest.xml:138:25-85
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] /Users/p.dubey/.gradle/caches/transforms-3/860f154f3ec27d2dc1a5fa7b1081dc58/transformed/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/p.dubey/.gradle/caches/transforms-3/860f154f3ec27d2dc1a5fa7b1081dc58/transformed/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/p.dubey/.gradle/caches/transforms-3/860f154f3ec27d2dc1a5fa7b1081dc58/transformed/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/p.dubey/.gradle/caches/transforms-3/860f154f3ec27d2dc1a5fa7b1081dc58/transformed/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/00a80b53def37d52c599ea11fc8ea11d/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/00a80b53def37d52c599ea11fc8ea11d/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/00a80b53def37d52c599ea11fc8ea11d/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/00a80b53def37d52c599ea11fc8ea11d/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/p.dubey/.gradle/caches/transforms-3/00a80b53def37d52c599ea11fc8ea11d/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.RNpayfort",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 19,
+        "versionName": "1.0.9",
+        "outputFile": "RNpayfort-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.RNpayfort",
+        "split": "",
+        "minSdkVersion": "21"
+      }
+    }
+  ]
+}

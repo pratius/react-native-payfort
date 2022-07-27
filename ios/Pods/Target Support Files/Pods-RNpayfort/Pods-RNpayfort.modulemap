@@ -1,0 +1,6 @@
+module Pods_RNpayfort {
+  umbrella header "Pods-RNpayfort-umbrella.h"
+
+  export *
+  module * { export * }
+}
